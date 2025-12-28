@@ -1,0 +1,7 @@
+services:
+  worker:
+    build: .
+    container_name: text-data-masker
+    restart: unless-stopped
+    ports:
+      - "8000:8000"

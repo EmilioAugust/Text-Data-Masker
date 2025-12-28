@@ -1,0 +1,12 @@
+# Git
+.git
+.gitignore
+.gitattributes
+
+# Virtual environment
+.venv
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
