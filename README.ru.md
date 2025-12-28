@@ -20,7 +20,6 @@ Text Data Masker — это утилита, которая сканирует т
 
 ## 📦 Пример ответа
 ```bash
-```bash
 [
   {
     "original": "Оригинальный текст"
@@ -29,7 +28,6 @@ Text Data Masker — это утилита, которая сканирует т
   }
 ]
 ```
-```
 
 ---
 
@@ -37,8 +35,8 @@ Text Data Masker — это утилита, которая сканирует т
 
 **1. Клонируйте репозиторий**
 ```bash
-git clone https://github.com/EmilioAugust/TextDataMasker.git
-cd TextDataMasker
+git clone https://github.com/EmilioAugust/Text-Data-Masker.git
+cd Text-Data-Masker
 ```
 **2. Установите зависимости**
 ```bash
