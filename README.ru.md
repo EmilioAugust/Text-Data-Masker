@@ -1,6 +1,6 @@
 # 🇷🇺 Русская версия
-[![lang en](https://img.shields.io/badge/lang-en-red)](https://github.com/EmilioAugust/NewsParser)
-[![lang ru](https://img.shields.io/badge/lang-ru-blue)](https://github.com/EmilioAugust/NewsParser/blob/main/README.ru.md)
+[![lang en](https://img.shields.io/badge/lang-en-red)](https://github.com/EmilioAugust/Text-Data-Masker)
+[![lang ru](https://img.shields.io/badge/lang-ru-blue)](https://github.com/EmilioAugust/Text-Data-Masker/blob/main/README.ru.md)
 
 ## 📰 Text Data Masker
 
