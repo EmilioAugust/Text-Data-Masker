@@ -34,8 +34,8 @@ Detected data is replaced with predefined placeholders to help protect privacy a
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/EmilioAugust/TextDataMasker.git
-cd TextDataMasker
+git clone https://github.com/EmilioAugust/Text-Data-Masker.git
+cd Text-Data-Masker
 ```
 **2. Install dependencies**
 ```bash
